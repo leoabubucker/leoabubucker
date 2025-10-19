@@ -37,6 +37,7 @@ Hi, I'm Leo, a first-year CS major at the University of Maryland, College Park. 
 
 ## 👥 Organizations
 - 2025–Present: [Robotics at Maryland Terraformers Team](https://github.com/TerraformersURC) — Sensors Team Programmer.
+- 2025-Present: [Beetle in a Box (A UC Berkeley Club)](https://github.com/Beetle-In-a-Box) - Frontend Web Developer.
 - 2021–2025: [Towson High School Robotics](https://github.com/Towson-High-Robotics) — Club President, Team Captain, Programmer.
 
 ## 🔗 Links and Socials
